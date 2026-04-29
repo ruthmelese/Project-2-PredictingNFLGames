@@ -1,0 +1,16 @@
+2026-04-29 10:52:29,751 - INFO - Pipeline started
+2026-04-29 10:52:54,612 - INFO - Pipeline started
+2026-04-29 10:52:55,834 - INFO - Data loaded successfully
+2026-04-29 10:54:56,605 - INFO - Pipeline started
+2026-04-29 10:54:56,669 - INFO - Data loaded successfully
+2026-04-29 10:54:57,157 - INFO - Features created: home_win, point_diff, error
+2026-04-29 10:55:04,987 - INFO - Model training started
+2026-04-29 10:55:05,124 - INFO - Model accuracy: 0.6648351648351648
+2026-04-29 10:55:05,514 - INFO - Bias visualization completed
+2026-04-29 10:56:06,118 - INFO - Pipeline started
+2026-04-29 10:56:06,509 - INFO - NumExpr defaulting to 8 threads.
+2026-04-29 10:56:06,873 - INFO - Data loaded successfully
+2026-04-29 10:56:07,583 - INFO - Features created: home_win, point_diff, error
+2026-04-29 10:56:13,842 - INFO - Model training started
+2026-04-29 10:56:15,381 - INFO - Model accuracy: 0.6648351648351648
+2026-04-29 10:56:15,953 - INFO - Bias visualization completed

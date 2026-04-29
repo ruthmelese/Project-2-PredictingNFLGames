@@ -6,11 +6,11 @@ This project builds a document-based dataset (D1) to support predicting NFL game
 
 **Name**: Ruth Melese  
 **NetID**: cup6cd
-- **DOI**:
+- **DOI:** [Zenodo](https://doi.org/10.5281/zenodo.19887697)
 - **Press Release:** [Predicting NFL Game Outcomes Using Structured Game Data](press_release.md)
 - **Data:** [OneDrive Folder Link](https://myuva-my.sharepoint.com/:f:/g/personal/cup6cd_virginia_edu/IgBt2TBIcuczT5f5OeIR7gbXAc0K37oitoZwMZ0K5nHATXc?e=NwxeIr)
 - **Pipeline:** [notebooks/pipeline.ipynb](notebooks/pipeline.ipynb)
-- **License:**  [MIT]()
+- **License:**  [MIT](https://github.com/ruthmelese/Project-2-PredictingNFLGames/blob/main/LICENSE)
 
 
 ## Problem Definition
